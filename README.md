@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @HallanBoy
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Olá! Sou o Hallann. 👋
+
+Desenvolvedor full-stack com foco em:
+
+* HTML ✨
+* CSS 🎨
+* Python 🐍
+* MySQL 🗄️
+* SQL 📝
+
+Pronto para novos desafios e colaborações no mundo do desenvolvimento web. Vamos trocar uma ideia? 🚀
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 
