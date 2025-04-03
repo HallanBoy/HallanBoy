@@ -15,17 +15,13 @@ Sou uma pessoa curiosa, proativa e com muita vontade de aprender e contribuir pa
 Vamos construir o futuro da tecnologia juntos! 😊
 <br>
 ## Minhas Tecnologias 🚀📖
+
 <div style="text-align: center;">
   <img align="center" alt="HTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-
   <img align="center" alt="CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
   <img align="center" alt="Python" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-
   <img align="center" alt="Mysql" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/mysql/mysql-original.svg">
-
   <img align="center" alt="git" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
-
   <img align="center" alt="vs-code" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/vscode/vscode-original.svg">
 </div><br>
 
