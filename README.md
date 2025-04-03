@@ -1,6 +1,6 @@
 ## Olá! Meu nome é Hallann 👋
 
-Sou um desenvolvedor full-stack em formação, buscando ativamente minha primeira oportunidade na área. 🚀
+Sou um desenvolvedor full-stack em formação. 📖
 
 Formando-se em Sistema de Informação. 💻
 
@@ -10,9 +10,7 @@ Estou me dedicando a aprimorar minhas habilidades em:
 * **Back-end:** Python, explorando suas diversas aplicações. 🐍
 * **Banco de Dados:** MySQL e SQL, aprendendo a gerenciar e manipular dados de forma eficiente. 🗄️
 
-Sou uma pessoa curiosa, proativa e com muita vontade de aprender e contribuir para projetos desafiadores. Estou ansioso para colocar meus conhecimentos em prática e crescer profissionalmente como desenvolvedor.
-
-Se você tem alguma oportunidade para um desenvolvedor iniciante ou gostaria de trocar ideias sobre tecnologias e o mercado de trabalho, ficarei muito feliz em conversar! 💡
+Sou uma pessoa curiosa, proativa e com muita vontade de aprender e contribuir para projetos desafiadores. Estou ansioso para colocar meus conhecimentos em prática e crescer profissionalmente como desenvolvedor.🚀
 
 Vamos construir o futuro da tecnologia juntos! 😊
 <br>
