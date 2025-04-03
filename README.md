@@ -16,8 +16,8 @@ Se você tem alguma oportunidade para um desenvolvedor iniciante ou gostaria de 
 
 Vamos construir o futuro da tecnologia juntos! 😊
 
-<div style="text-align: center;">
-  <br>
+## Minhas Tecnologias 🚀📖
+<div style="text-align: center;"> <br>
   <img align="center" alt="HTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 
   <img align="center" alt="CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -29,10 +29,11 @@ Vamos construir o futuro da tecnologia juntos! 😊
   <img align="center" alt="Django" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/django/django-plain.svg">
 
   <img align="center" alt="vs-code" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/vscode/vscode-original.svg">
-</div>
+</div><br>
 
 
-##
+## Estatísticas Github ⚙️
+
 <div>
 <a href="https://github.com/HallanBoy">
 <img loading="lazy"  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HallanBoy&layout=compact&langs_count=7&theme=neon"/>
