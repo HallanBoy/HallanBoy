@@ -2,6 +2,8 @@
 
 Sou um desenvolvedor full-stack em formação, buscando ativamente minha primeira oportunidade na área. 🚀
 
+Formando-se em Sistema de Informação. 💻
+
 Estou me dedicando a aprimorar minhas habilidades em:
 
 * **Front-end:** HTML e CSS para criar interfaces web atraentes e funcionais. ✨🎨
