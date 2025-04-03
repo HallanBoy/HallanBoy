@@ -29,8 +29,16 @@ Vamos construir o futuro da tecnologia juntos! 😊
   <img align="center" alt="Django" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/django/django-plain.svg">
 
   <img align="center" alt="vs-code" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/vscode/vscode-original.svg">
-</div><br><br>
+</div><br>
 
+## Certificações 🏆
+
+Descrição | Instituição | Ano | Tipo
+--------- | ------ | ------- | -------
+📖 Curso Transfero academy | Senac | 2025 | Certificação
+📖 Bacharel em (SI) | Estácio | 2025 | Diploma
+
+<br>
 
 ## Estatísticas Github ⚙️
 
