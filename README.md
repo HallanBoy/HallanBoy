@@ -33,8 +33,8 @@ Vamos construir o futuro da tecnologia juntos! 😊
 
 ## Certificações 🏆
 
-Descrição | Instituição | Ano | Tipo
---------- | ------ | ------- | -------
+**Descrição**  | **Instituição** | **Ano** | **Tipo**
+------------- | -------------- | ------- | -------
 📖 Curso Transfero academy | Senac | 2025 | Certificação
 📖 Bacharel em (SI) | Estácio | 2025 | Diploma
 
